@@ -1,0 +1,1 @@
+geoAreaCode	geoAreaName	Goal	Goal Description	Target	Target Description	Indicator	Indicator Description	Tier	Release	Series	Series Description
